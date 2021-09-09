@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using AdventOfCode.CSharp.Common;
+﻿using AdventOfCode.CSharp.Common;
 
 namespace AdventOfCode.CSharp.Y2020.Solvers
 {

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks.Dataflow;
-using AdventOfCode.CSharp.Common;
+﻿using AdventOfCode.CSharp.Common;
 
 namespace AdventOfCode.CSharp.Y2016.Solvers
 {

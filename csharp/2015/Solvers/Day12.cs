@@ -1,6 +1,4 @@
 ﻿using AdventOfCode.CSharp.Common;
-using System;
-using System.Linq;
 
 namespace AdventOfCode.CSharp.Y2015.Solvers
 {

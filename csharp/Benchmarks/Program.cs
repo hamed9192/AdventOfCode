@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using AdventOfCode.CSharp.Common;
+﻿using AdventOfCode.CSharp.Common;
 using AdventOfCode.CSharp.Runner;
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Columns;

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AdventOfCode.CSharp.Common
+﻿namespace AdventOfCode.CSharp.Common
 {
     public ref struct SpanSplitEnumerator<T> where T : IEquatable<T>
     {

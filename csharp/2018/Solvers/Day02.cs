@@ -1,5 +1,4 @@
 ﻿using AdventOfCode.CSharp.Common;
-using System;
 using System.Diagnostics.CodeAnalysis;
 
 namespace AdventOfCode.CSharp.Y2018.Solvers

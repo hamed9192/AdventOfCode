@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using AdventOfCode.CSharp.Common;
+﻿using AdventOfCode.CSharp.Common;
 using Xunit;
 
 namespace AdventOfCode.CSharp.Tests

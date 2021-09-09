@@ -1,5 +1,4 @@
-﻿using System;
-using AdventOfCode.CSharp.Common;
+﻿using AdventOfCode.CSharp.Common;
 
 namespace AdventOfCode.CSharp.Runner
 {

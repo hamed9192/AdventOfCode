@@ -4,8 +4,12 @@
     <OutputType>Exe</OutputType>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>False</Optimize>
+  </PropertyGroup>
+
   <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.12.1.1474" />
+    <PackageReference Include="BenchmarkDotNet" Version="0.13.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -13,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Common\AdventOfCode.CSharp.Common.csproj" />
     <ProjectReference Include="..\2015\AdventOfCode.CSharp.2015.csproj" />
     <ProjectReference Include="..\2016\AdventOfCode.CSharp.2016.csproj" />
     <ProjectReference Include="..\2017\AdventOfCode.CSharp.2017.csproj" />

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AdventOfCode.CSharp.Y2019.Common
+﻿namespace AdventOfCode.CSharp.Y2019.Common
 {
     public static class IntCode
     {

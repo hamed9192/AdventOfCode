@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AdventOfCode.CSharp.Common
+﻿namespace AdventOfCode.CSharp.Common
 {
     public static partial class SpanExtensions
     {
